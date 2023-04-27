@@ -1,7 +1,7 @@
 {
-    "name": "signrequest/signrequest-client",
+    "name": "lbss2015/signrequest-client-guzzle-7",
     "version": "1.3.0",
-    "description": "Official PHP client for SignRequest.com (https://signrequest.com)",
+    "description": "Forked from Official PHP client for SignRequest.com (https://signrequest.com)",
     "keywords": [
         "signrequest",
         "php",
